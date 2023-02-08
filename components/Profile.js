@@ -11,7 +11,7 @@ const Profile = () => {
                     <Image className="rounded-full shadow-2xl" src="/profile.jpg" alt="profile" height={300} width={300} />
                 </div>
                 <div className="md:w-3/5 md:mt-2">
-                    <h1 className="text-3xl py-5 font-bold md:text-4xl">Hi, I'm Kelvin!</h1>
+                    <h1 className="text-3xl py-5 font-bold md:text-4xl">Hi, I&#39;m Kelvin!</h1>
                     <p className="text-1xl mt-4 mb-10">
                         Software Enginer | Passionate about techs | Currently, learning React!
                     </p>
