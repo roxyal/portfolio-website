@@ -13,7 +13,7 @@ const Profile = () => {
                 <div className="md:w-3/5 md:mt-2">
                     <h1 className="text-3xl py-5 font-bold md:text-4xl">Hi, I&#39;m Kelvin!</h1>
                     <p className="text-1xl mt-4 mb-10">
-                        Software Enginer | Passionate about techs | Currently, learning React!
+                        Software Enginer | Passionate about techs | Keen in learning new stuff!
                     </p>
                     <Link
                         to="projects"
