@@ -38,7 +38,7 @@ const AboutSection = () => {
                 Hi, I am Kelvin, a recent graduate of Nanyang Technological University with a
                 degree in Computer Science. (Specialized in Artificial Intelligence) <br/><br/>
                 Passionate about software engineering and willing to learn new skills
-                to improve myself. Currently, learning React~ <br/><br/>
+                to improve myself. <br/><br/>
               </p>
               <p>
                 Travel, badminton and team-based games like Glory of Kings are some of my favorite activities.
