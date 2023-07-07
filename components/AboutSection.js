@@ -52,7 +52,7 @@ const AboutSection = () => {
                   <br></br>
                   <span className="text-base">Bachelor of Engineering, Computer Science</span>
                   <br></br>
-                  <span className="text-sm">Aug 2019 - Dec 2022</span>
+                  <span className="text-sm">Aug 2019 - May 2023</span>
                   <br></br>
                 </p>
                 <br></br>
