@@ -17,6 +17,20 @@ const PROJECTS_ITEMS = [
         image: '/portfolio.png',
         url: 'https://kelvinwahh.vercel.app/'
     },
+
+    {
+        name: 'TO-DO',
+        description: 'DashNotes is a task management platform that enables administrators to assign tasks to employees. It allows employees to efficiently manage their job tasks and track progress. This application is not deployed so the link cannot be access.',
+        image: '/todo.PNG',
+        url: ''
+    },
+
+    {
+        name: 'SOULCLICK',
+        description: 'SOULCLICK is a dating website inspired by popular apps like Tinder and Bumble. It offers a platform for users to connect and CLICK together. This application is not deployed so the link cannot be access.',
+        image: '/dating.PNG',
+        url: ''
+    },
 ]
 
 const Projects = () => {
