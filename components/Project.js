@@ -31,6 +31,13 @@ const PROJECTS_ITEMS = [
         image: '/dating.PNG',
         url: ''
     },
+
+    {
+        name: 'SOULMART',
+        description: 'SOULMART is an ecommerce website that draws inspiration from platforms like Shopee and Taobao. This project was implemented to gain a deeper understanding of the mechanics behind operating an ecommerce business. This application is not deployed so the link cannot be access.',
+        image: '/ecommerce.PNG',
+        url: ''
+    },
 ]
 
 const Projects = () => {
